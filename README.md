@@ -32,7 +32,7 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/wildanarkan/jepai.git
+   git clone https://github.com/smartec3414/Flutter_study_jepai.git
    cd jepai
    ```
 
